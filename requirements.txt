@@ -1,0 +1,8 @@
+pandas
+duckdb
+matplotlib
+jupyter
+black
+isort
+ruff
+pre-commit

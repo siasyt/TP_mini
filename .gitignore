@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Data files
+*.duckdb
+*.csv
+
+# Jupyter notebook garbage
+.ipynb_checkpoints/
+
+# Editor stuff
+.vscode/
+
+# OS trash
+.DS_Store
+Thumbs.db
