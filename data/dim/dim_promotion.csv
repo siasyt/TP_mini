@@ -1,0 +1,6 @@
+promotion_sk,promotion_name,discount_rate
+0,Promotion 1,0.0
+1,Promotion 2,0.1
+2,Promotion 3,0.15
+3,Promotion 4,0.2
+4,Promotion 5,0.25

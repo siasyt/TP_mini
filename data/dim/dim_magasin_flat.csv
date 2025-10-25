@@ -1,0 +1,4 @@
+sk_magasin,nom_magasin,type_magasin,ville,region,pays,code_iso2
+1,Magasin République,Supermarché,Paris,Île-de-France,France,FR
+2,Magasin Bastille,Hypermarché,Paris,Île-de-France,France,FR
+3,Magasin Hauptplatz,Supérette,Munich,Bavière,Allemagne,DE
