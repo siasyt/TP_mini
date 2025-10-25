@@ -21,4 +21,6 @@ lint:
 run:
 	python main.py
 	python duckdb_query.py
+	duckdb_analysis.ipynb
+	mini_dw_tp.ipynb
 
