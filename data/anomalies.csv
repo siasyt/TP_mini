@@ -1,0 +1,1 @@
+customer_id,name,email,country,customer_sk,email_valid,name_not_null,email_not_null,country_not_null,is_anomaly

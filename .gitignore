@@ -7,7 +7,7 @@ __pycache__/
 
 # Data files
 *.duckdb
-*.csv
+*.wal
 
 # Jupyter notebook garbage
 .ipynb_checkpoints/
