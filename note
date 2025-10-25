@@ -1,0 +1,15 @@
+.venv\Scripts\activate
+
+pip install -r requirements.txt
+
+make setup
+make format
+make lint
+make run
+
+git pull origin main
+git add .
+git commit -m "update: ..."
+git push origin main
+
+deactivate
