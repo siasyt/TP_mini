@@ -1,0 +1,4 @@
+shift_id,shift_name,planned_minutes,shift_sk
+1,Shift A,480,1
+2,Shift B,480,2
+3,Shift C,480,3
